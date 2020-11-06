@@ -1,0 +1,5 @@
+This OS was Written By Vihaan Pundir.
+Please follow the instructions to get your OS running. First you need a Windows 10/8/8.1/7 pc. Then you need to download the files of this repo. Please run the PineOS_Installer.cmd before
+running any other file. After you have done doing that, Please run the PineOS.cmd file to enjoy your new os. If you get errors in the PinOS_Installer.cmd file please report to VihaanPundir.
+Add questions to the Issues part of this repo.
+Enjoy!
