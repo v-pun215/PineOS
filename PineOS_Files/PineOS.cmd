@@ -16,7 +16,7 @@ pause
 cls
 echo What Would You Like To Do? Type the number.
 echo.
-echo 1.System Info 2.Calc 3.Calendar 4.Shut Down 5.Antivirus 6.Dark Mode 7.Light Mode 8.Notes
+echo 1.System Info 2.Calc 3.Calendar 4.Shut Down 5.Antivirus 6.Dark Mode 7.Light Mode 8.Notes 9.Terminal
 
 set /p input=
 if %input% == 1 goto info
