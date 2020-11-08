@@ -79,7 +79,7 @@ goto menu
      
 :pmd
 cls
-start Pinemd.cmd
+start PineOS_prompt.cmd
 pause
 goto menu
 
