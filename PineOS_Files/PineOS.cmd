@@ -27,6 +27,8 @@ if %input% == 5 goto antivirus
 if %input% == 6 goto dark
 if %input% == 7 goto light
 if %input% == 8 goto notes
+if %input% == 9 goto pmd
+
 
 :info
 
@@ -75,6 +77,12 @@ echo.
 pause
 goto menu
      
+:pmd
+cls
+start Pinemd.cmd
+pause
+goto menu
+
 :update 
 cls
 
